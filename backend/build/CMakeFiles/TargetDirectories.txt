@@ -1,0 +1,3 @@
+C:/flight_route_optimization/backend/build/CMakeFiles/flight_optimizer.dir
+C:/flight_route_optimization/backend/build/CMakeFiles/edit_cache.dir
+C:/flight_route_optimization/backend/build/CMakeFiles/rebuild_cache.dir

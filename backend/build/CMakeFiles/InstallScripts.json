@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/flight_route_optimization/backend/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
